@@ -11,3 +11,4 @@ Structure example:
       -initial.collision.log
       -initial.conv.sh
       -initial.semergedisrupt.log
+  -Final.ipynb
